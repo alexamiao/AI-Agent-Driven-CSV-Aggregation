@@ -11,8 +11,8 @@ The project focuses on designing simple data-processing utilities and evaluating
 - Emphasis on prompt clarity and API design
 
 ## Project Structure
-├── README.md
-└── CSV_CONCAT_AGENT.ipynb
+- README.md
+- CSV_CONCAT_AGENT.ipynb
 The main notebook containing the implementation, experiments, and observations.
 
 ## Technologies Used
